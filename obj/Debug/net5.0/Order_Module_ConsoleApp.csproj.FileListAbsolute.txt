@@ -1,0 +1,16 @@
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\bin\Debug\net5.0\Order_Module_ConsoleApp.exe
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\bin\Debug\net5.0\Order_Module_ConsoleApp.deps.json
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\bin\Debug\net5.0\Order_Module_ConsoleApp.runtimeconfig.json
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\bin\Debug\net5.0\Order_Module_ConsoleApp.runtimeconfig.dev.json
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\bin\Debug\net5.0\Order_Module_ConsoleApp.dll
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\bin\Debug\net5.0\Order_Module_ConsoleApp.pdb
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.AssemblyInfo.cs
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.dll
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\refint\Order_Module_ConsoleApp.dll
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.pdb
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\Order_Module_ConsoleApp.genruntimeconfig.cache
+C:\Users\mert1\source\repos\Order_Module_ConsoleApp\Order_Module_ConsoleApp\obj\Debug\net5.0\ref\Order_Module_ConsoleApp.dll
